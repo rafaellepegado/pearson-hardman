@@ -182,45 +182,4 @@ i {
 
 .about-description{
     display: flex;
-    align-items: center; 
-}
-
-.about-description h4 {
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
-}
-
-#about-data{
-    display: flex;
-    flex: 1 1 0;
-    flex-wrap: wrap;
-    padding: 2rem;
-}
-
-#about-data .data{
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 2rem;
-}
-#abaout-data .data:first-child{
-
-}
-#abaout-data .data
-#about-data .data i{
-    background-color: transparent;
-    color: var(--main-color);
-    font-size: 4rem;
-    padding: 0;
-}
-
-.data .nmber{
-    font-size: 4rem;
-    font-weight: 900;
-}
-
-.data .text {
-    text-transform: uppercase;
 }

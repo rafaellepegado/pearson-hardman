@@ -224,3 +224,30 @@ i {
 .data .text {
     text-transform: uppercase;
 }
+
+#testimonial {
+    display: flex;
+    align-items: center;
+}
+#testemonial {
+    padding: 3rem;
+
+}
+.autor img{
+    width: 100px;
+    height: 100px;
+}
+
+.author .author-name{
+    color: var(--main-color);
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1rem; 
+}
+.author{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 1rem;
+}
